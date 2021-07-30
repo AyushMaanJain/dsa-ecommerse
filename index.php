@@ -21,7 +21,7 @@
       <div class="container">
         <div class="navbar-header">
           
-            <a class="navbar-brand" href="index.php">Project name</a>
+            <a class="navbar-brand" href="index.php">Devi Shah Aggraval</a>
         </div>
         <div class="">
               <ul class="nav navbar-nav navbar-right">
